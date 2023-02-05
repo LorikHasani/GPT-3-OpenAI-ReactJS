@@ -65,7 +65,7 @@
   }
 
   .gpt3__possibility-image img {
-    width: unset;
+    width: 100%;
     height: unset;
   }
 
@@ -73,6 +73,8 @@
     margin-top: 2rem;
   }
 }
+
+
 
 @media screen and (max-width: 700px) {
   .gpt3__possibility-image img {
